@@ -1,0 +1,1 @@
+{'Elastic Net': {'alpha': 0.1, 'l1_ratio': 0.25}, 'Artificial Neural Network': {'batch_size': 32, 'dropout': 0.4, 'epochs': 100, 'neurons_fe': 32, 'regularization': 1e-05}}
