@@ -2,7 +2,7 @@
 
 Abstract: To meet order fulfillment targets, manufacturers seek to optimize their production plans. Machine learning can support this objective by predicting throughput times on production lines given order specifications. However, this is challenging when manufacturers produce customized products, as customization often leads to changes in the probability distribution of operational data and, thus, so-called distributional shifts. Distributional shifts can harm the performance of predictive models when deployed to future customer orders with new specifications. The Operations Management literature provides little advice on how such distributional shifts can be addressed. Here, we propose a data-driven approach based on adversarial learning and job shop scheduling, which allows us to account for distributional shifts in manufacturing settings with high degrees of product customization. We empirically validate our proposed approach using real-world data from a job shop production that supplies large metal components to an oil platform construction yard. Across an extensive series of numerical experiments, we find that our adversarial learning approach outperforms common baselines and thus offers considerable cost savings. Overall, this paper shows how production managers can improve their decision-making under distributional shifts. 
 
-Paper available at: https://arxiv.org/pdf/2304.11910.pdf
+Paper available at: https://doi.org/10.1111/poms.14021
 
 # Scripts
 
